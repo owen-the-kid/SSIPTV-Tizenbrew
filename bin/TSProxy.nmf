@@ -1,0 +1,14 @@
+{
+  "files": {},
+  "program": {
+    "x86-64": {
+      "url": "TSProxy_x86-64.nexe"
+    },
+    "arm": {
+      "url": "TSProxy_armv7.nexe"
+    },
+    "x86-32": {
+      "url": "TSProxy_i686.nexe"
+    }
+  }
+}

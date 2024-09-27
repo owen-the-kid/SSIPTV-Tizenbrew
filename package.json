@@ -1,0 +1,17 @@
+{
+    "name": "@owenthekid/ssiptv-tizenbrew",
+    "version": "1.0.0",
+    "description": "SS-IPTV for Tizenbrew",
+    "packageType": "app",
+    "appName": "SS-IPTV Tizenbrew",
+    "appPath": "index.html",
+    "keys": [
+        "ArrowLeft",
+        "ArrowUp",
+        "ArrowRight",
+        "ArrowDown",
+        "Enter",
+        "Back"
+  ]
+}
+
