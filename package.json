@@ -4,7 +4,7 @@
     "description": "SS-IPTV for Tizenbrew",
     "packageType": "app",
     "appName": "SS-IPTV Tizenbrew",
-    "appPath": "index.html",
+    "appPath": "http://app.ss-iptv.com/tv.js",
     "keys": [
         "ArrowLeft",
         "ArrowUp",
