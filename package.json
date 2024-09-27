@@ -1,5 +1,5 @@
 {
-    "name": "@owenthekid/ssiptv-tizenbrew",
+    "name": "ssiptv-tizenbrew",
     "version": "1.0.0",
     "description": "SS-IPTV for Tizenbrew",
     "packageType": "app",
