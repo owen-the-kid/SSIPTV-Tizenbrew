@@ -4,14 +4,6 @@
     "description": "SS-IPTV for Tizenbrew",
     "packageType": "app",
     "appName": "SS-IPTV Tizenbrew",
-    "appPath": "index.html",
-    "keys": [
-        "ArrowLeft",
-        "ArrowUp",
-        "ArrowRight",
-        "ArrowDown",
-        "Enter",
-        "Back"
-  ]
+    "appPath": "index.html"
 }
 
